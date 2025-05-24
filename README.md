@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on C and C++ based projects
 - 📫 How to reach me drop an email at harshyadav26950@gmail.com
-- 😄 Pronouns: Harsh
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I want to be a full stack web developer .
 
 <!---
